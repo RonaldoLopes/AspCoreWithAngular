@@ -1,0 +1,11 @@
+﻿Migrations:
+	1.Abrir console de genrenciador de pacotes;
+	2.Apontar para o repositório;
+	3.Add-Migration _nomeQualquer;
+	//replicar para o banco
+	4.Update-Database -Verbose;
+	5.Add-Migration CargaFormaPagamento;
+	6.Update-Database -Verbose;
+
+
+Criando WebAPI
